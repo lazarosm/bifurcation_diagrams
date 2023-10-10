@@ -7,6 +7,7 @@ Moysis, L., Lawnik, M., Volos, C. (2023). Density-Colored Bifurcation Diagrams -
 
 
 Author links:
+
 Lazaros Moysis. https://www.researchgate.net/profile/Lazaros-Moysis  
 
 Marcin Lawnik. https://www.researchgate.net/profile/Marcin-Lawnik 
