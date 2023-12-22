@@ -3,7 +3,7 @@ This repository contains codes for generating bifurcation diagrams in MATLAB and
 
 If you use the code, please make sure that you cite the following reference:
 
-Moysis, L., Lawnik, M., Volos, C. (2023). Density-Colored Bifurcation Diagrams - A Complementary Tool for Chaotic Map Analysis. International Journal of Bifurcation and Chaos. (In Press)
+Moysis, L., Lawnik, M., & Volos, C. (2023). Density-Colored Bifurcation Diagrams—A Complementary Tool for Chaotic Map Analysis. International Journal of Bifurcation and Chaos, 33(15), 2330036.
 
 
 Author links:
